@@ -3,7 +3,7 @@
 
 
 
-<img align="center" height="500" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif"  />
+<img align="center" height="300" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathunidealwis&label=Profile%20views&color=0e75b6&style=flat" alt="chathunidealwis" /> </p>
 <div align="left">
