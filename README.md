@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chathunidealwis" alt="chathunidealwis" /></a> </p>
 
-- 🌱 I’m currently learning **React, NLP**
+- 🌱 I’m currently learning **React, NLP, Tailwind CSS**
 
 - 💬 Ask me about **React, Java**
 
